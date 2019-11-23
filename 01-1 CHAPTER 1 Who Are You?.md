@@ -24,4 +24,17 @@ To provide all that information would be quite a **chore**. But suppose the ques
 
 ## The Influence Of Time and Place  
 
-Not only are you a member of  a particular species, *Homo sapiens*, but you also exist at a particular time in the history of that species and in a particular place on the planet. that time and place are defined by specific circumstances, understandings, beliefs, and customs, all of which limit your ewperience and influence your thought pattterns. if you had lived in America in colonial times, you likely would have had no objection to the prectice of barring women from serving on a jury, entering into a legal contract, owning property, or voting. If you had lived in the nineteeth century, you would have had no objection to young children being denied an education and beling hired out by their parents to work sixteen hours a day, nor would you have given any thought to the special needs of adolescence.(The concept of adolescence was not invented until 1904.)
+Not only are you a member of  a particular species, **Homo sapiens**, but you also exist at a particular time in the history of that species and in a particular place on the planet. That time and place are defined by specific circumstances, understandings, beliefs, and customs, all of which limit your experience and influence your thought pattterns. if you had lived in America in **colonial** times, you likely would have had no objection to the prectice of **barring** women from serving on a **jury** , entering into a legal contract, owning property, or voting. If you had lived in the nineteeth century, you would have had no objection to young children being denied an education and being hired out by their parents to work sixteen hours a day, nor would you have given any thought to the special needs of **adolescence** .(The concept of adolescence was not invented until 1904.)
+
+对于你来说，你不仅属于人类种族的一员，还存在于这一时间、这一地点的人类种族。时间和地点的定义受到特殊环境、理念、信仰、风俗影响，所有这一切都将限制你的经验，影响你的思维模式。假如你生活在殖民地时期的美国，你可能对于禁止女性加入陪审团、合法签订合同、拥有财产亦或者是参与投票等观念毫无异议；假如你生活在十九世纪，你可能对让父母雇佣儿童做每天16小时的工作而不让受教育的行为没有异议；你可能同样不认为青春期的孩子需要有特殊需求（青春期的概念知道1904年才被提出）。
+
+>**生词本**  
+**Homo sapiens：** 智人（现代人的学名）；**人类**  
+**colonial：** adj. **殖民的** ，殖民地的  
+**barring：** v. **阻拦**  
+**jury：** n. [法] **陪审团** ；评判委员会  
+**adolescence** n. **青春期**    
+
+
+
+
