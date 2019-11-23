@@ -35,6 +35,32 @@ Not only are you a member of  a particular species, **Homo sapiens**, but you al
 **jury：** n. [法] **陪审团** ；评判委员会  
 **adolescence** n. **青春期**    
 
+If you had been rised in the Middle East, you would stand much closer to people you **converse** with than you do in America. If you had been raied in India, you might be perfectly comfortable having your parents choose your **spouse** for you. If your native language were Spanish and your knowledge of English **modest**, you probably would be confused by some English **colloquialisms** . James Henslin offers two **amusing** examples of such confusion: Chevrolet Novas initially sold very poorly in Mexico because *no va* in Spanish means "it doesn't work"; and Perdue chickens were  regarded with certain suspicion (or worse) because the company's slogan---"It takes an though man to make a tender chiken"---became in Spanish "It takes an aroused man to make a chicken **affectionate**."
+
+如果你从中东地区长大，相比于在美国长大的人，你将站的离与你交谈的人更近；如果你在印度长大，你将对由父母帮你选择配偶一事感到非常自然；如果你的母语是西班牙语，而英语知识有限，或许你会对很多英语口语感到困惑。关于这种困惑，詹姆斯汉林思提供了两个有趣的案例：起初Chevrolet Novas在墨西哥销售业绩惨淡，因为在西班牙语中“no va”的意思是“不好用”；因为将公司的标语“硬汉才能做出鲜嫩的鸡”翻译为西班牙语“情欲旺盛的男人才能做出来深情款款的鸡”，柏杜养鸡场感到非常困惑。
+
+>**生词本：**  
+**converse** v. **交谈，谈话；认识**  adj. 相反的，逆向的；颠倒的  
+**spouse：** n. **配偶**  
+**modest：** adj. **有限的**, 谦虚的，谦逊的；适度的 ；端庄的；羞怯的  
+**colloquialisms：** n. **口语**  
+**amusing:** adj. **有趣的**，好玩的；引人发笑的
+**affectionate：** adj. **深情的** ；
+
+People who grow up in Eurpe, Asia, or South America have very different ideas of **punctuality** . As Daniel Goleman explains, "Five minutes is late but permissible for bussiness appointment in the U.S., but thirty minutes in normal in Arab countries. In England five to fifteen minutes is the 'correct" lateness for one invited to dinner; an Italian might come two hours late, an Eehiopian still later, a Javanese not at all, having acceptd only to prevent his host's losing face." A different ethnic origin would also mean different tastes in food. Instead of craving a New York Strip steak and frence fries, you might crave "raw monkey brains" or " camel's blood". Sociologist Ian Robertson summed up the range of global dietary differences **succinctly** : "Americans eat oysters but not snails. The Franch eat snails but not locusts. The Zulus eat locusts but not fish. The Jews eat fish but not pork.The Hindus eat pork but not beef. The Russians eat beef but not snakes. The Chinese eat snakes but not people. The Jalé of New Guinea find people delicious."[Note: The reference to Hindus is mistaken.]
+
+在欧洲、亚洲、南美洲长大的人有着不同的时间观念，正如Daniel Goleman说道，在美国商界，迟到5分钟以内是可以接受的，但在阿拉伯国家迟到30分钟属于正常现象；在英国邀请别人吃晚饭，迟到15分钟之内是可以的，但对意大利人来说迟到两小时很正常，而爱斯基摩人更甚，爪哇国人甚至毫不在意，接受邀请只为给主人点面子。不同的种族往往意味着不同的食物偏好，或许你会偏好生猴脑或者骆驼血，而不是纽约街牛排或法式炸薯条。正如伊朗社会学家 Robertson所总结的世界膳食区别边界简谱所说：美国人吃牡蛎，但不吃蜗牛；法国人吃蜗牛但不吃蝗虫；祖鲁人吃蝗虫但不会鱼；犹太人吃鱼但不吃猪肉；印度教人吃猪肉但不吃牛肉；俄国人吃牛肉但不吃蛇；中国人吃蛇但不吃人；而新几内亚人发现人肉其实挺好吃的。[印度人不吃猪肉也不吃牛肉，文中所述是错误的]
+
+>**生词本：**  
+**punctuality：** n. 严守时间；正确；规矩  
+**succinctly：** adv. 简洁地；简便地  
+
+To sum up, living in a different age or culture would make you a different person. Even if you **rebelled** against the values of your time and place, they still would represent the context of your life---in other words, they still would influence your responses.
+
+总结一下，生活在不同的时代或者文化中会让你成为不同的自己，即使你持有与所处的时代或地区的价值观相反的态度，它们依然能体现在你的生活中----换句话说，它们依然会对你产生影响。
+
+>**生词本：**  
+**rebelled：**  反叛（rebel的过去式和过去分词）；造反  
 
 
 
