@@ -24,7 +24,4 @@ To provide all that information would be quite a **chore**. But suppose the ques
 
 ## The Influence Of Time and Place  
 
-Not only are you a member of  a particular species, *Homo sapiens*, but you also exist at a particular time in the history of that species and in a particular place on the planet. that time and place are defined by.
-
-
-
+Not only are you a member of  a particular species, *Homo sapiens*, but you also exist at a particular time in the history of that species and in a particular place on the planet. that time and place are defined by specific circumstances, understandings, beliefs, and customs, all of which limit your ewperience and influence your thought pattterns. if you had lived in America in colonial times, you likely would have had no objection to the prectice of barring women from serving on a jury, entering into a legal contract, owning property, or voting. If you had lived in the nineteeth century, you would have had no objection to young children being denied an education and beling hired out by their parents to work sixteen hours a day, nor would you have given any thought to the special needs of adolescence.(The concept of adolescence was not invented until 1904.)
