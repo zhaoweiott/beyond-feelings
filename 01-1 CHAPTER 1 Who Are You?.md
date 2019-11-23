@@ -24,7 +24,7 @@ To provide all that information would be quite a **chore**. But suppose the ques
 
 ## The Influence Of Time and Place  
 
-Not only are you 
+Not only are you a member of  a particular species, *Homo sapiens*, but you also exist at a particular time in the history of that species and in a particular place on the planet. that time and place are defined by.
 
 
 
