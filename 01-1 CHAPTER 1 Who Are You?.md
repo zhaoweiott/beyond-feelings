@@ -24,6 +24,8 @@ To provide all that information would be quite a **chore**. But suppose the ques
 
 ## The Influence Of Time and Place  
 
+## 时间和地点的影响
+
 Not only are you a member of  a particular species, **Homo sapiens**, but you also exist at a particular time in the history of that species and in a particular place on the planet. That time and place are defined by specific circumstances, understandings, beliefs, and customs, all of which limit your experience and influence your thought pattterns. if you had lived in America in **colonial** times, you likely would have had no objection to the prectice of **barring** women from serving on a **jury** , entering into a legal contract, owning property, or voting. If you had lived in the nineteeth century, you would have had no objection to young children being denied an education and being hired out by their parents to work sixteen hours a day, nor would you have given any thought to the special needs of **adolescence** .(The concept of adolescence was not invented until 1904.)
 
 对于你来说，你不仅属于人类种族的一员，还存在于这一时间、这一地点的人类种族。时间和地点的定义受到特殊环境、理念、信仰、风俗影响，所有这一切都将限制你的经验，影响你的思维模式。假如你生活在殖民地时期的美国，你可能对于禁止女性加入陪审团、合法签订合同、拥有财产亦或者是参与投票等观念毫无异议；假如你生活在十九世纪，你可能对让父母雇佣儿童做每天16小时的工作而不让受教育的行为没有异议；你可能同样不认为青春期的孩子需要有特殊需求（青春期的概念知道1904年才被提出）。
@@ -62,5 +64,31 @@ To sum up, living in a different age or culture would make you a different perso
 >**生词本：**  
 **rebelled：**  反叛（rebel的过去式和过去分词）；造反  
 
+## The Influence of Ideas
 
+When one idea expressed, closely related ideas are **simultaneously** **conveyed** , logiclly and inescapably. In Logic, this **kinship** is expressed by term ***sequitur*** ,Latin for "it follows."(The converse is non sequitur,"it does not follow?)
+
+Consider, for example, the idea that many teachers and parents express to young children as a way of encourage them: "if you believe in yourself, you can succeed in anything." From this, it follows that nothing else but bilief--- nether talent nor hard work---is neccessary for sucess. the reason the two ideas are **equivalent** is that their meanings are **inseparably** linked.
+
+In addition to conveying ideas closely linked to it in meaning, an idea can imply other ideas. For example, the idea that there is no real difference between virtue and **vice** implies that people should not **feel bound by** common moral standards. Samuel Johnson had this **implication** in mind when he said:"But if he does really think that there is no distinction between virtue and vice, why, Sir, when leaves your houses, let us count our **spoons**.
+
+## 观念的影响
+
+当表达一个观念时，同时也在逻辑上不可避免的传达着与此密切相关的观念，在逻辑上，这种相关联的观念是通过“sequitur”来传达的，这个拉丁语的意思是“因此推断”。（相反的拉丁语词是“non insquitur”,意为不可推出）。
+
+例如，许多老师和家长向孩子传达“只要你相信自己，你就在任何事上取得成功”，以此来激励他们。从此可以推断出，除了相信自己之外，成功不必需要其他任何要素（包括天赋和努力）。这两个观念是等价的，因为他们的意义是不可分割的联系在一起的。
+
+除了传达在意义上与自己相关联的观念之外，一个观念还蕴含了其他的观念。例如，善恶之间没有什么区别的观念蕴含了人们不需要被传统道德标准所约束的观念。当Samuel Johnson说道“如果他当真认为善恶之间没有明确的区别的话，先生，为什么我们离开住所时要清点自己的汤匙呢”时，他心里想的就是这样的蕴意。 
+
+> **生词本：**  
+**simultaneously** :adv. 同时地  
+ **conveyed** :vt. 传达  
+ **kinship** :n. [法] 亲属关系，家属关系；亲密关系    
+**sequitur**: n. 推断，结论（自前提演变的）  
+**equivalent** :adj. 等价的，相等的；同意义的 | n. 等...  
+**inseparably** :adv. 不可分地，不能分离地  
+**vice**:n. 恶习；缺点；[机] 老虎钳；卖淫  
+**be bound by**:受…约束；由…联系起来  
+**implication**:n. 含义；暗示；牵连，卷入；可能的结果，影响  
+**spoons**:n. 匙，勺子；一杓的量  
 
