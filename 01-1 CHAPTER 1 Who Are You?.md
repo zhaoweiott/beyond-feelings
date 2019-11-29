@@ -92,3 +92,97 @@ In addition to conveying ideas closely linked to it in meaning, an idea can impl
 **implication**:n. 含义；暗示；牵连，卷入；可能的结果，影响  
 **spoons**:n. 匙，勺子；一杓的量  
 
+If we were fully aware of the closely linked meanings and implications of the ideas we encounter, we could easily **sort out** the **sound** ones from the unsound, the wise from the foolish, and the helpful from the harmful. But we  are seldom fully aware. In many cases, we take ideas at face value and **embrace** them with little or no thought of their associated meanings and implications. **In the course of time**, our actions are shaped by those meanings and implications, whether we are aware of them or not.
+
+To **appreciate** the influence of ideas in people' lives, consider the series of events set in motion by an idea that was popular in psychology more than a century ago and whose influence continues to this day--- the idea that "intelligence is genetically determined and cannot be increased"
+
+如果我们能够清醒地意识到与我们想到的观念所有有关联的意义和含义，我们就能够轻松的区分开合理的与不合理的；睿智的与愚蠢的；有益的与有害的。但是我们从不会如此清醒。在许多情况下，我们只关注观念表面的价值，而从不仔细想与之相关的意义与含义。随着时间的推移，不管我们有没有意识到，我们的行为都被那些相联系的意义与含义所影响塑造。
+
+为了更好的让人理解观念对人们生活的影响，请考虑某个观念引发的一系列事件，这个观念是一百多前流行于心理学中的，其影响一直延续到现在---即“智力是由遗传决定的，并且不能提升”的观念。
+
+> **生词本：**
+**sort out** 挑选出；分类  
+**sound**:  adj. 合理的；无损的；健全的  
+**embrace**:  vt. 拥抱；信奉，皈依；包含  
+**In the course of time**：随着时间的推移  
+**appreciate**： vt. 领会；鉴别；欣赏；感激；
+
+The idea led researchers to **devise** tests that meausure intellgence. the most famous (badly **flawed**) test determined that the averge mental age of white American adult was 13 and that, among immigrants, the averge Russiasn's mental age was 11.34; the averge Italian's 11.01; the averge Pole's 10.74; and the averge mental age of " Negroes," 10.41.
+
+Educators  read the text result and thought," Attempts to raise students' intellgence are pointless," so they replaced academic **curricula** with **vocational** curricula and embraced a **methodology** that taught students faces but not the process of judgement.
+
+这个观念使得研究者设计了测量智商的测试题。 最著名的（也是缺陷很大的）测试的结果是：美国白人的平均心理年龄是13岁；而在移民之中，俄罗斯的平均心理年龄是11.34岁；意大利的平均心理年龄是11.01岁；波兰人的平均心理年龄是10.74岁；黑人的平均心理年龄是10.41岁。
+
+教育工作者读到这个测试结果后会想：努力去尝试改变学生的智商是无意义的。所以，他们用职业课程代替了学术课程， 并且接受了教授学生知识而非判断过程的方法论。
+
+> **生词本：**    
+**devise**： vt. 设计；想出；发明；图谋；遗赠给    
+ **flawed**： adj. 有缺陷的；有瑕疵的；有裂纹的      
+**curricula**： n. 课程（curriculum的复数形式）    
+**vocational**：adj. 职业的，行业的    
+**methodology**：n. 方法学，方法论    
+
+**Legislators** read the test result and decide " We've got to do something to keep intellectually **inferior** people from entering the country," so they **revised** immigration laws to **discriminate** against southern and central Europeans.
+
+**Eugenicists** who had long been concerned about the welfare of the human species, saw the test as a grave warning. They thought, "If intelligence cannot be increased, we must find ways of encouraging reproductions among people of higher intelligence and discouraging it among those of lower intelligence."
+
+立法者读到测试结果，然后决定：我们不得不为了阻止智商低下的人们进入我们的国家而做点什么。因此他们修改了移民法，用以歧视南部和中部的欧洲人。
+
+优生学家长期以来一直关注人类的福祉，他们将这个研究结果作为一项严重的警示，他们想“如果智力无法提高，我们必须想办法鼓励高智商的人们多生育，而抑制低智商人群的繁殖”
+
+> **生词本：**  
+**Legislators**：n. [法] 立法者（legislator的复数形式）  
+**revised**：v. 修改；校订；复习  
+**discriminate**：vt. 歧视；区别；辨别   
+**inferior**：adj. 差的；自卑的；下级的，下等的  
+**Eugenicists**：优生学家  
+
+The eugenicists' concern inspired a variety of actions. Margaret Sanger's Planned Parenthood urged the lower classes to practice **contraception**. Others succeeded in **legalizing** **promoted** forced **sterilization**, notably in Virginia. The U.S. **Supreme** Court **upheld** the virginia law with Justice Oliver Wendell Homless, Jr. declarng, "Three generations of **imbeciles** are enough." Over the next five decades 7500 women, including "unwed mothers, **prostitutes**, **petty** criminals and chidren with **disciplinary** problems" were **sterilized**. In addition, by 1950 over 150000 **supposedly** "**defective**" children, many **relatively** normal, were held against their will in **institutions**. They "**endured** **isolation**, overcrowding, forced **labor**, and physical abuse including **lobotomy**, electroshock, and surgical sterilization.
+ 
+优生学家的这种关切引发了各种行为。 Margaret Sanger的计划生育政策建议底层阶级家庭采取避孕措施；其他人成功地使强制绝育合法化；尤其是在弗吉尼亚州，美国最高法院支持弗吉尼亚州的法律， 大法官Oliver Wendell Homless， Jr宣称“低能人拥有三代就足够了”。在此后的50年里，有7500位女性（包括未婚先孕的妈妈、妓女、轻微的罪犯和有纪律问题的孩子被绝育。另外，到1950年有150000可能存在的问题的儿童，和许多相对正常的孩子被强行拘押。他们遭受着被隔离、拥挤、强制劳动、以及身体上的虐待，包括强制施行脑前叶切除术、点击和外科绝育。
+
+> **生词本：**
+**contraception**:n. **避孕**  
+**legalizing** :**使合法化**  
+**promoted**:v. 促进；**宣传**；促销；提升  
+**sterilization**:**绝育**   
+**Supreme** :adj. **最高的**；至高的；最重要的   
+**uphold**:vt. 支撑；鼓励；**赞成**；举起  
+**imbecile**：n. 低能者；愚蠢的人  
+**prostitutes**:**妓女**  
+**petty**:adj. 琐碎的；小气的；**小规模的**    
+**disciplinary**:adj. 规律的；**纪律的**    
+**sterilized**:adj. 无菌的；已消过毒的  
+**supposedly**:adv. 可能；按照推测；恐怕  
+**defective**:adj. 有缺陷的；不完美的  
+**relatively**:adv. 相当地；相对地，比较地  
+**institutions**: n. 体系  
+**endured**:v. 忍耐  
+**isolation**:n. 隔离；孤立；  
+**labor**:n. 劳动；工作  
+**lobotomy**:n. 叶切断术；前脑叶白质切除术  
+
+Meanwhile, business leaders read the test result and decided, "We need policies to ensure the workers leave their minds at the factory gate and perform their assigned tasks mindlessly." So they **enacted** those polices. Decades later, when Edwards Deming proposed his "quality control" ideas for involving workers in decision making, business leaders remembered those test results and ignored Deming's advice. (In contrast, the Japanese welcomed Deming's ideas; as a result, several of their industries **surged** ahead of their American competition.)
+
+与此同时，商界领导看过这项研究结果后决定：我们需要相关政策以确保工人在进入工厂大门之后进入无脑模式，不加思考地去完成安排的工作。于是他们实施了这种政策。几十年后，当Edwards Deming 提出他的让工人参与决策的“控制质量”观念时，商界领导仍然记得这个测试结果，然后没有接受他的提议（相反，日本人接受了他的观念，结果是，在几个与美国相竞争的产业里，日本遥遥领先。）
+ 
+>**生词本：**
+ **enacted** ：. 通过（法律）；**把……付诸实施**；扮演（enact 的过去式及过去分词）
+
+These are the most obvious effedcts of **hereditarianism** but they are centainly not the only ones. Others includes **discrimination** against racial and ethnic minorities and the often-**paternalistic** policies of government offered in response.(Some historians also link hereditarianism to the **genocide** that occurred in Nazi Germany)
+
+这些是遗传决定论最明显的后果，但不是所有的后果。其他诸如种族歧视、歧视少数民族、政府作为回应而提出的往往是父权主义的政策。（有一些历史学家也会将遗传决定论与纳粹德国的种族灭绝联系起来）
+
+The **innumerable** ideas you have encountered will affet your beliefs and behavior in similar ways---something slightly, at other times **profoundly**. And this can happen even if you have not consciously embraced the ideas.
+
+你所产生的数不清的观念将以相似的方式影响你的信仰和行动（有时轻微地，有时深刻地）；这甚至会在你未有意识的把握这些观念之前就可能发生。
+
+>**生词本：**  
+**hereditarianism**：n. 遗传主义；遗传论  
+**discrimination**：n. 歧视；区别，辨别；识别力  
+**paternalistic**：父权主义的  
+**innumerable**：adj. 无数的，数不清的   
+**profoundly**：adv. 深刻地；深深地；极度地  
+
+
+
