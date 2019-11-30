@@ -184,5 +184,23 @@ The **innumerable** ideas you have encountered will affet your beliefs and behav
 **innumerable**：adj. 无数的，数不清的   
 **profoundly**：adv. 深刻地；深深地；极度地  
 
+## The Influence Of Mass Culture
+
+In centuries past, family and teachers were dominant, and sometimes the only, influence on children. Today, however, the influence exerted by mass culture( the boradcast media, newspapers, magazines, Internet and popular music) often is greater.
+
+By age 18 the average teenager has spent 11000 hours in the classroom and 22000 hours in front of the television set. He or she has had perhaps 13000 school lessons yet has watched more than 750000 commercials. By age thirt-five the same person has had fewer than 45000 hours of television and close to 2 million commercials.
+
+What effects does mass culture have on us? To answer, we need only consider the formats and devices commonly used in the media. Modern advertising typically bombards the public with slogans and testimonials by celebriteies. This approach is designed to appeal to emotions and create artificial needs for products and services. As a result, many people develop the habit of responding emotionally, impulsively, and gullibly to such appeals. They also tend to acquire values very different from those taught in the home and the school as mor desirable than self-control, and materialism as more meaningful than idealism.
+
+Television programmers are frequent sence shifts and sensory appeals such as car crashes, violence, and sexual encounters to keep audience interest from diminishing. Then they add frequent commercial interruptions. This author has analyzed the attentiom shifts that television viewers are subjected to. In a dramatic program, for example, attention shifts might include camera angle changes; shifts in story line from one set of characters(or subplot) to another, or from a present cence to a past sence(flashback), or to fantasy; and shifts to "newsbreaks," to commercial breaks, from one commercial to another, and back to the program. Also included might be shifts of attentiom that occur within commercials.  I found as many as 78 shifts per hour, excluding the shifts within commercials.The number of shifts within comercials ranged from 6 to 54 and averaged approximately 17 per fifteen-second commercial. The total number of attention shifts came out to over 800 per hour, or 1 per minute.
+
+
+
+
+
+
+
+
+
 
 
