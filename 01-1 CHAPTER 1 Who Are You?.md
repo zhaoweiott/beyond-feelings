@@ -186,13 +186,46 @@ The **innumerable** ideas you have encountered will affet your beliefs and behav
 
 ## The Influence Of Mass Culture
 
-In centuries past, family and teachers were dominant, and sometimes the only, influence on children. Today, however, the influence exerted by mass culture( the boradcast media, newspapers, magazines, Internet and popular music) often is greater.
+## 大众文化的影响
 
-By age 18 the average teenager has spent 11000 hours in the classroom and 22000 hours in front of the television set. He or she has had perhaps 13000 school lessons yet has watched more than 750000 commercials. By age thirt-five the same person has had fewer than 45000 hours of television and close to 2 million commercials.
+In centuries past, family and teachers were dominant, and sometimes the only, influence on children. Today, however, the influence **exerted** by mass culture( the boradcast media, newspapers, magazines, Internet and popular music) often is greater.
 
-What effects does mass culture have on us? To answer, we need only consider the formats and devices commonly used in the media. Modern advertising typically bombards the public with slogans and testimonials by celebriteies. This approach is designed to appeal to emotions and create artificial needs for products and services. As a result, many people develop the habit of responding emotionally, impulsively, and gullibly to such appeals. They also tend to acquire values very different from those taught in the home and the school as mor desirable than self-control, and materialism as more meaningful than idealism.
+By age 18 the average teenager has spent 11000 hours in the classroom and 22000 hours in front of the television set. He or she has had perhaps 13000 school lessons yet has watched more than 750000 commercials. By age thirty-five the same person has had fewer than 20000 school lessons yet has watched **approximately** 450000 hours of television and close to 2 million commercials.
 
-Television programmers are frequent sence shifts and sensory appeals such as car crashes, violence, and sexual encounters to keep audience interest from diminishing. Then they add frequent commercial interruptions. This author has analyzed the attentiom shifts that television viewers are subjected to. In a dramatic program, for example, attention shifts might include camera angle changes; shifts in story line from one set of characters(or subplot) to another, or from a present cence to a past sence(flashback), or to fantasy; and shifts to "newsbreaks," to commercial breaks, from one commercial to another, and back to the program. Also included might be shifts of attentiom that occur within commercials.  I found as many as 78 shifts per hour, excluding the shifts within commercials.The number of shifts within comercials ranged from 6 to 54 and averaged approximately 17 per fifteen-second commercial. The total number of attention shifts came out to over 800 per hour, or 1 per minute.
+在过去的几个世纪里，家庭和老师是主要的，有时甚至是唯一对孩子产生影响的因素。而今，大众文化（包括广播电调、新闻报纸、杂志、网络和流行音乐）对人们的影响往往更大。
+
+青少年达到18岁时，平均用于学校课堂的时间为11000小时，而用在看电视上的平均时间是22000小时。他用于做课堂作业的时间达到13000小时，而用于看商业广告的时间却超过了75万小时。到35岁时，一个人到达35岁时，用于完成学校作业时间不超过20000小时，而用于看电视的时间接近45万小时，超过200万条商业广告。
+
+> **生词本：**  
+**mass**:adj. 群众的，民众的；大规模的，集中的  
+**exerted**:adj. 表现、外露的、发挥、尽力；exerted by:由……施加
+**approximately**： adv. 大约，近似地；近于
+
+What effects does mass culture have on us? To answer, we need only consider the **formats** and **devices** commonly used in the media. Modern advertising typically **bombards** the public with slogans and **testimonials** by **celebrities**. This approach is designed to appeal to emotions and create **artificial** needs for products and services. As a result, many people develop the habit of responding emotionally, **impulsively**, and **gullibly** to such appeals. They also tend to acquire values very different from those taught in the home and the school. Ads often **portray** play as more fulfilling than work, self-gratification as more desirable than self-control, and materialism as more meaningful than idealism.
+
+大众文化对我们有什么影响呢？为了回答这个问题，我们只需要思考媒体通常使用的的方式和手段就可以了。当代广告通常用标语和名人推荐的方式来轰炸群众。这种方式是为了迎合人们的情绪，同时创造出付产品和设备的人造需求。结果呢，很多人形成了对这种方式情绪化、冲动化、轻易相信的习惯性反应。他们还会倾向于得到与学校和家庭教育的大不相同的价值观。广告常常描绘消遣比工作更让人满足，自满比自律更让人渴望，物质主义比理想主义更有意义。
+
+> **生词本：**  
+**formats** ：n. [计] 格式（format的复数）；幅度
+**devices** ：**手段**  
+**bombard** ：vt. 轰炸；炮击  
+**testimonial**：n. 证明书；推荐书  
+**celebrities**：n. 名人（celebrity的复数）；名誉  
+ **artificial** ：adj. 人造的；仿造的；**虚伪的**；非原产地的；武断的  
+ **impulsive**：adj. **冲动的**；受感情驱使的；任性的   
+ **gullibly**：**易受骗地**，轻信地  
+ **portray**：vt. 描绘；**扮演**  
+
+
+Television programmers use **frequent** sence shifts and **sensory** appeals such as car crashes, violence, and sexual encounters to keep audience interest from diminishing. Then they add frequent commercial interruptions. This author has analyzed the attention shifts that television viewers are subjected to. In a dramatic program, for example, attention shifts might include camera angle changes; shifts in story line from one set of characters(or **subplot**) to another, or from a present cence to a past sence(flashback), or to fantasy; and shifts to "newsbreaks," to commercial breaks, from one commercial to another, and back to the program. Also included might be shifts of attention that occur within commercials.  I found as many as 78 shifts per hour, **excluding** the shifts within commercials.The number of shifts within comercials ranged from 6 to 54 and averaged approximately 17 per fifteen-second commercial. The total number of attention shifts came out to over 800 per hour, or over 14 per minute.
+
+电视节目用频繁的场景变换和感官诉求，比如车祸、暴力、艳遇等使观众保持兴趣，然后他们频繁的插播商业广告。本书作者分析过电视观众所承受的注意力转移。例如，在一个电视剧中，注意力的转移包括镜头角度的变换，故事主线从一系列情节（或支线内容）转换到另一系列情节，或者从当前的场景跳回到以前的场景，（闪回），或者切换到幻想的情节；切换到“播放新闻”或插播商业广告，然后在回到电视节目。而且，注意力的转移也可能发生在商业广告之内。我发现每小时切换78，这还不包括商业广告之内的变换。每个15秒的广告中，商业广告之内的切换有6到54次不等，平均大约17次。注意力切换的总数超过了每小时800次或者每分钟14次。
+
+> **生词本：**
+**frequent**:adj. **频繁的**；时常发生的；惯常的   
+ **subplot**：n. 次要情节；陪衬情节  
+ **excluding**：prep. 将……排除在外；不包括……
+ 
 
 
 
