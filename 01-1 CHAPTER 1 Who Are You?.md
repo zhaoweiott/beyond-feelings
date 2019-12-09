@@ -198,7 +198,7 @@ By age 18 the average teenager has spent 11000 hours in the classroom and 22000 
 
 > **生词本：**  
 **mass**:adj. 群众的，民众的；大规模的，集中的  
-**exerted**:adj. 表现、外露的、发挥、尽力；exerted by:由……施加
+**exerted**:adj. 表现、外露的、发挥、尽力；exerted by:由……施加  
 **approximately**： adv. 大约，近似地；近于
 
 What effects does mass culture have on us? To answer, we need only consider the **formats** and **devices** commonly used in the media. Modern advertising typically **bombards** the public with slogans and **testimonials** by **celebrities**. This approach is designed to appeal to emotions and create **artificial** needs for products and services. As a result, many people develop the habit of responding emotionally, **impulsively**, and **gullibly** to such appeals. They also tend to acquire values very different from those taught in the home and the school. Ads often **portray** play as more fulfilling than work, self-gratification as more desirable than self-control, and materialism as more meaningful than idealism.
@@ -221,10 +221,10 @@ Television programmers use **frequent** sence shifts and **sensory** appeals suc
 
 电视节目用频繁的场景变换和感官诉求，比如车祸、暴力、艳遇等使观众保持兴趣，然后他们频繁的插播商业广告。本书作者分析过电视观众所承受的注意力转移。例如，在一个电视剧中，注意力的转移包括镜头角度的变换，故事主线从一系列情节（或支线内容）转换到另一系列情节，或者从当前的场景跳回到以前的场景，（闪回），或者切换到幻想的情节；切换到“播放新闻”或插播商业广告，然后在回到电视节目。而且，注意力的转移也可能发生在商业广告之内。我发现每小时切换78，这还不包括商业广告之内的变换。每个15秒的广告中，商业广告之内的切换有6到54次不等，平均大约17次。注意力切换的总数超过了每小时800次或者每分钟14次。
 
-> **生词本：**
+> **生词本：**  
 **frequent**:adj. **频繁的**；时常发生的；惯常的   
- **subplot**：n. 次要情节；陪衬情节  
- **excluding**：prep. 将……排除在外；不包括……
+ **subplot**：n. 次要情节；陪衬情节   
+ **excluding**：prep. 将……排除在外；不包括……  
  
 
 
