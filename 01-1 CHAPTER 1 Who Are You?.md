@@ -226,8 +226,14 @@ Television programmers use **frequent** sence shifts and **sensory** appeals suc
  **subplot**：n. 次要情节；陪衬情节   
  **excluding**：prep. 将……排除在外；不包括……  
  
+This **manipulation** has prevented many people from developing a mature attention **span**. They expect the classroom and the workplace to provide the same constant excitement they get from tevelion. That, of coures, is an impossible demand, and when it isn't met they call their teachers boring and their work unfulfilling. Because such people seldom have the patience to read books that require them to think, many publishers have replaced serious books with light **fare** written by celebrities.
 
+这种操作使得很多人不能发展处成熟的注意力跨度，他们期望着课堂上和工作中能够给他们带来像从电视节目得到的那种持续不断的兴奋。当然，这是不可能的， 当得不到满足时，他们说老师讲课无聊或者工作不能让他们满意。因为这种人从来不会有耐心去阅读那些需要他们去思考的书，很多出版商把这种系列的书替换成了名人写的轻松消遣的书。
 
+> **生词本**：  
+**manipulation**：n. 操纵；**操作**；处理；篡改    
+**span**：n. 跨度，跨距；范围  
+**fare**:
 
 
 
