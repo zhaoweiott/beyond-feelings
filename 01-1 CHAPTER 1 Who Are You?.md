@@ -235,6 +235,8 @@ This **manipulation** has prevented many people from developing a mature attenti
 **span**：n. 跨度，跨距；范围  
 **fare**:
 
+Even when  writers of serious books do mange to become published authors, they are often directed to give short, dramatic answers during promotional interviers, sometimes at the expense of accuracy. A man who coaches writers for talk  shows offered one client this advice:"If I ask you whether the budget deficit is a good thing or bad thing, you should not say,' Well, it stimulates the economy but it passes on a burden.' You have to say 'It's a great idea!' or 'It's a terrible idae!' It doesn'tmatter which."(Translation: "Don't give a balanced answer. Give an oversimplified one because it will get you noticed."
+
 
 
 
