@@ -235,9 +235,20 @@ This **manipulation** has prevented many people from developing a mature attenti
 **span**：n. 跨度，跨距；范围  
 **fare**:
 
-Even when  writers of serious books do mange to become published authors, they are often directed to give short, dramatic answers during promotional interviers, sometimes at the expense of accuracy. A man who coaches writers for talk  shows offered one client this advice:"If I ask you whether the budget deficit is a good thing or bad thing, you should not say,' Well, it stimulates the economy but it passes on a burden.' You have to say 'It's a great idea!' or 'It's a terrible idae!' It doesn'tmatter which."(Translation: "Don't give a balanced answer. Give an oversimplified one because it will get you noticed."
+Even when writers of serious books do manage to become published authors, they are often directed to give short, **dramatic** answers during **promotional** interviews, sometimes at the expense of accuracy. A man who coaches writers for talk shows offered one **client** this advice:"If I ask you whether the **budget** **deficit** is a good thing or bad thing, you should not say,' Well, it **stimulates** the economy but it passes on a burden.' You have to say 'It's a great idea!' or 'It's a terrible idea!' It doesn't matter which."(Translation: "Don't give a balanced answer. Give an oversimplified one because it will get you noticed.")
 
+即使在严肃文章作者转型成为出版作者后，当在开促销发布会期间，他们也被要求提供短的，引人注意的结论，有时候会牺牲精确性。一个专门培训参加脱口秀节目作者的教练给他的学员建议道：“当我问你预算赤字是好事还是坏事的的时候，你最好不要回答‘财政赤字能刺激经济，但这不过是把负担向后传递了而已。’你要回答‘那是个好政策’或者‘那个政策太糟糕了’再或者‘赤字不赤字无所谓’”。
 
+> **生词本：**    
+**dramatic**:adj. 戏剧的；急剧的；**引人注目的**；激动人心的  
+**promotional** :adj. **促销的**；增进的；奖励的  
+**client**:n. [经] **客户**；顾客；委托人  
+**budget**:n. **预算**，预算费  
+**deficit**:n. **赤字**；不足额  
+
+Print journalism is also in the **grip** of **sensationalism**. As a newspaper editor observed,"Journalists keep trying to find people who are at 1 or at 9 on scale of 1 to 10 rather than people at 3 to 7 [the more **moderate** positions] where most people actually are." Another journalists claims, "News is now becoming more opinion than verified fact. Journalists are slipping into entertainment rather than telling us the verified facts we need to know."
+
+> **生词本：**  
 
 
 
