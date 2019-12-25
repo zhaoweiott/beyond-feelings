@@ -246,10 +246,22 @@ Even when writers of serious books do manage to become published authors, they a
 **budget**:n. **预算**，预算费  
 **deficit**:n. **赤字**；不足额  
 
-Print journalism is also in the **grip** of **sensationalism**. As a newspaper editor observed,"Journalists keep trying to find people who are at 1 or at 9 on scale of 1 to 10 rather than people at 3 to 7 [the more **moderate** positions] where most people actually are." Another journalists claims, "News is now becoming more opinion than verified fact. Journalists are slipping into entertainment rather than telling us the verified facts we need to know."
+Print journalism is also in the **grip** of **sensationalism**. As a newspaper editor observed,"Journalists keep trying to find people who are at 1 or at 9 on scale of 1 to 10 rather than people at 3 to 7 [the more **moderate** positions] where most people actually are." Another journalist claims, "News is now becoming more opinion than verified fact. Journalists are slipping into entertainment rather than telling us the verified facts we need to know."
 
-> **生词本：**  
+报刊杂志类新闻业也同样被追求轰动效应的理念所支配。一位新闻编辑如是说：假如总范围是1到10，新闻记者总是尽最大努力去寻找能能能对1或9有需求的人，而不是寻找大多数人实际所在的3到7（观点更温和的人）的位置。另一位新闻记者说：现在新闻已经变得更倾向于传达观点，而不是确定的事实。新闻记者们已经变成了娱乐，而不是告诉我们应该知道的事实。
 
+> **生词本：**   
+**grip**：n. 紧握；柄；**支配**；握拍方式；拍柄绷带  
+ **sensationalism**：n. **追求轰动效应**；哗众取宠  
+ **moderate** ：adj. 稳健的，**温和的**；适度的，中等的；有节制的  
+ 
+ Today's politicians often manipulate people more offensively than do journalists. Instead of expressing their thoughts, some politicians find out what people think and pretend to share their ideas. Many politicians hire people to conduct polls and focus groups to learn what messages will "sell". They even go so far as to test the impact of certain words--that is why we hear so much about "trust", "family", "character," and  "values" these days. Political science professor Larry Sabato says that during the Clinton **impeachment** **trial**, the president's advisors used the term private lives over and over --James Carville used it six times in one four- minute speach--because they knew it could persuade people into beliving the president's lying under oath was of no great consequence.
+ 
+ 现在的政客们操纵起人民时远比新闻从业者更过分，相比于宣扬自己的思想，很多政客们更喜欢去找到人们关心的东西，然后假装分享自己的观点。很多政客们雇佣人们去组织民意调查，并集中关注在群体中更畅销的信息。他们甚至走的更远，去测试人们对一些确定词汇的反应，这就是为什么你经常听到“信任”，“家庭”， “性格”， “价值”等词汇的原因了。政治学教授Larry Sabato 说道：在弹劾克林顿总统的审判中，总统顾问一再使用“私生活”这个词--James Carville在一个4分钟的演讲中用到6次--因为他们知道这样可以说服人们相信总统在选时候说谎没什么大不了的。
+ 
+ > **生词本：**  
+ **impeachment**：n. **弹劾**；控告；怀疑；指摘    
+**trial**：n. 试验；**审讯**；努力；磨炼  
 
 
 
