@@ -263,6 +263,25 @@ Print journalism is also in the **grip** of **sensationalism**. As a newspaper e
  **impeachment**：n. **弹劾**；控告；怀疑；指摘    
 **trial**：n. 试验；**审讯**；努力；磨炼  
 
+## The "Science" Of Manipulation
+
+## 控制的“学问”
+
+Attempts to influence the thoughts and actions of others are no doubt as old as time, but manipulation did not become a science until the early twentieth century, when Iavn Pavlov, a Russian professor of psychology, publiched his research on conditioned (learned) reflexes. Pavlov found out that by raining a bell when he fed a dog, he could condition the dog to drool at the sound of the bell even when no food was presented. An American psychologist, John Watson, was impressed with Pavlov's findings and applied them to human behavior. In Watson's most famous experiment, he let a baby touch a laboratory rat. At first, the baby was unafraid. But then Watson hit a hammer againest metal whenever the baby reached out to touch the rat, and the baby became frightened and cried. In time, the baby cried not only at the sight of the rat but also at the sight of anything furry, such as a stuffed animal. Watson's work earned him the title "father of behavireism."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
