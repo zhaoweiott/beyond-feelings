@@ -290,7 +290,9 @@ Less well konwn is Watson's application of **behaviorist** principles to adverti
 **affectionate**adj. 深情的；adj. 充满爱的；  
 **strike at**：袭击；攻击；向…打击  
 
-Watson introduced these strategies in the 1920s and 1930s, the rage of newspaper and radio. Since the advent of television, these advertising startegies have grown more sophisticated and effictive, so much  so that many individuals and groups with political and social agendas have adopted them. The strategies work for a number of reasons, the chief one being people's conviction that they are impercious to manipulation. This 
+Watson introduced these strategies in the 1920s and 1930s, the rage of newspaper and radio. Since the advent of television, these advertising startegies have grown more sophisticated and effictive, so much  so that many individuals and groups with political and social agendas have adopted them. The strategies work for a number of reasons, the chief one being people's conviction that they are impervious to manipulation. This belief is mistaken, as many researchers have demonstrated. For example Solomon Asch showed that people's reactions can be altered simply by changing the order of words in series. He asked study participants to evaluate a person by a series of adjectives. When he put positive adjectives first---"intelligent, industrious, implusive, critical, stubborn, envious"---the participants gave a positive evaluation. When he reversed the order, with "envious" coming first and "intelligent" last, they gave a negative evaluation.
+
+
 
 
 
