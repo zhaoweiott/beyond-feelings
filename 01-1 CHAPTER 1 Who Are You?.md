@@ -263,20 +263,34 @@ Print journalism is also in the **grip** of **sensationalism**. As a newspaper e
  **impeachment**：n. **弹劾**；控告；怀疑；指摘    
 **trial**：n. 试验；**审讯**；努力；磨炼  
 
+
 ## The "Science" Of Manipulation
 
 ## 控制的“学问”
 
-Attempts to influence the thoughts and actions of others are no doubt as old as time, but manipulation did not become a science until the early twentieth century, when Iavn Pavlov, a Russian professor of psychology, publiched his research on conditioned (learned) reflexes. Pavlov found out that by raining a bell when he fed a dog, he could condition the dog to drool at the sound of the bell even when no food was presented. An American psychologist, John Watson, was impressed with Pavlov's findings and applied them to human behavior. In Watson's most famous experiment, he let a baby touch a laboratory rat. At first, the baby was unafraid. But then Watson hit a hammer againest metal whenever the baby reached out to touch the rat, and the baby became frightened and cried. In time, the baby cried not only at the sight of the rat but also at the sight of anything furry, such as a stuffed animal. Watson's work earned him the title "father of behavireism."
+Attempts to influence the thoughts and actions of others are no doubt as old as time, but manipulation did not become a science until the early twentieth century, when Iavn Pavlov, a Russian professor of psychology, publiched his research on conditioned (learned) **reflexes**. Pavlov found out that by ringing a bell when he fed a dog, he could condition the dog to **drool** at the sound of the bell even when no food was presented. An American psychologist, John Watson, was impressed with Pavlov's findings and applied them to human behavior. In Watson's most famous experiment, he let a baby touch a laboratory rat. At first, the baby was unafraid. But then Watson hit a hammer againest metal whenever the baby reached out to touch the rat, and the baby became frightened and cried. In time, the baby cried not only at the sight of the rat but also at the sight of anything **furry**, such as a **stuffed** animal. Watson's work earned him the title "father of behavireism."
+
+毫无疑问，影响别人的想法和行动的做法自古就有，但是直到二十世纪早期，当苏联心理学家伊万·巴甫洛夫出版了他关于条件（后天习得的）反射的调查研究之后，操纵才成为一门学问。巴甫洛夫发现，当每次给狗喂食的同时摇响铃铛，可以让狗形成一种听见铃声就流口水的习惯，即使没有给它喂食时也会如此。美国心理学家约翰·沃特森受到巴甫洛夫实验的影响，然后将其应用到人类行为研究之中。在沃特森的著名实验中，他让一个婴儿去摸一只实验室的小白鼠，起初婴儿并不害怕；但是，一旦当婴儿触摸小白鼠的时候，他就用锤子敲打一根金属棒。然后婴儿就变得害怕并且哭了。最后，婴儿不仅看到老鼠时会哭，而且，看到任何有毛的东西（比如动物毛绒玩具）都会哭。这项研究成果使得沃特森获得了“行为主义之父”的称号。
 
 
+> **生词本：**    
+**reflex**：n. （对刺激的）本能反应；**反射（作用）**；反映物；反映形式；反射光    
+**drool**：vi. **流口水**；胡说   
+**furry**：adj. 毛皮的；盖着毛皮的；似毛皮的  
+ **stuff**：vt. **塞满**；填塞；让吃饱
 
+Less well konwn is Watson's application of **behaviorist** principles to advertising. He spent the latter part of his career working for advertising agencies and soon recognized that the most effective appeal to consumers was not to the mind but to the emotions. He advised advertisers to "tell [the consumer] something that will tie him up with fear, something that will **stir up** a mile **rage**, that will call out an **affectionate** or love reponse, or **strike at** a deep psychological or habit need. "His attitude toward the consumer is perhaps best indicated by a statement he made in presentation to department store executives:" The consumer is to the manufacturer, the department stores and the advertising agencies, what the green frog is to the physiologist."
 
+沃特森将行为主义原则应用于广告之中的事就鲜为人知了。他职业生涯的后期就为广告机构工作，他很快发现，对消费者最有效的吸引不在思维层面，而是在情感层面。他建议广告商告诉消费者一些能唤起他们恐惧情感的东西，将会引起愤怒、产生爱慕或者恋爱反应的事情，或者激起深度心理需求或者习惯性需要的东西。他对于消费者的态度可以用他在一个给百货公司高管们所做的一份报告中的话来诠释：消费者对于生产商、百货商店和广告机构，就像是青蛙对于生理学家的意义。
 
+> **生词本：**  
+**behaviorist**：行为主义  
+ **stir up**：激起；煽动；搅拌；唤起    
+**rage**：n. 愤怒；狂暴，肆虐；情绪激动  
+**affectionate**adj. 深情的；adj. 充满爱的；  
+**strike at**：袭击；攻击；向…打击  
 
-
-
-
+Watson introduced these strategies in the 1920s and 1930s, the rage of newspaper and radio. Since the advent of television, these advertising startegies have grown more sophisticated and effictive, so much  so that many individuals and groups with political and social agendas have adopted them. The strategies work for a number of reasons, the chief one being people's conviction that they are impercious to manipulation. This 
 
 
 
