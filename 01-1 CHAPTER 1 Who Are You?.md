@@ -341,11 +341,28 @@ The social and psycholigcal theories of our time also have an impact on our beli
 **By and large**:大体上，总的来说  
 **internalized**:v. 内在化  
 
-Today the theories have been changed---indeed, almost esactly reversed. **Self-esteem**, which nineteenth-century **satirist** Ambrose Bierce defined as "an **erroneous** **appraisement**," is now considered an **imperative**. Self-centeredness has been transformed from vice into virtue, and people who devote their lives to helping others, people once considered **heroic** and **saintlike**, are now said to be **afflicted** with "a disease to please." The **formula** for success and happiness begins with feeling good about ourselves. Students who do poorly in school, workers who don't measure up to the challenges of their jobs, **substanc**e abusers, lawbreakers---all are typically **diagnosed** as **deficient** in self-esteem.
+Today the theories have been changed---indeed, almost esactly reversed. **Self-esteem**, which nineteenth-century **satirist** Ambrose Bierce defined as "an **erroneous** **appraisement**," is now considered an **imperative**. Self-centeredness has been transformed from vice into virtue, and people who devote their lives to helping others, people once considered **heroic** and **saintlike**, are now said to be **afflicted** with "a disease to please." The **formula** for success and happiness begins with feeling good about ourselves. Students who do poorly in school, workers who don't measure up to the challenges of their jobs, **substance** abusers, lawbreakers---all are typically **diagnosed** as **deficient** in self-esteem.
+
+如今，这些理论变样了（事实上，几乎是彻底的相反了）。自尊，被十九世纪讽刺作家Ambrose Bierce 定义为是“一种错误的称赞”，现在被认为是很有必要的。以自我为中心的也已经从坏的变成了一种美德，那些为了救别人而献出自己生命的人，曾经一度被认为是英雄的，高尚的，现在被认为是“一种取悦他人的疾病”。成功与快乐的规则变成了对自己感觉良好。成绩很差的学生、能力不能匹配工作的志愿、浪费钱物的人、违反法律的人---所有这些人一般都被诊断为缺少阻自尊。
 
 
+> **生词本：**  
+**Self-esteem**：n. 自尊；自负；自大  
+**satirist**：n. 讽刺作家；爱挖苦的人  
+ **erroneous**：adj. 错误的；不正确的   
+ **appraisement**：n. 评价  
+**imperative**：adj. 必要的，不可避免的；紧急的  
+**heroic**：adj. 英雄的；英勇的；  
+**saintlike**：adj. 德高的；圣徒一般的；气质高尚的  
+**afflicted**：折磨；使痛苦；使苦恼  
+**formula**：n. [数] 公式，准则；配方  
+**substance**：n. 物质；实质；资产；主旨  
+**diagnosed**：v. 诊断；被诊断为（diagnose的过去分词）  
+**deficient**：adj. 不足的；有缺陷的；不充分的  
 
+In addition, just as our grandparents internalized the social and psycholigical theories of their time, so most contemporary Americans have internalized the message of self-esteem. We hear people speak if it over coffee; we hear it endlessly invoked on talk shows. Challenges to its precepts are usually met with disapproval.
 
+But isn't the theory of self-esteem self-evident? No. A negative perception of our abilities will, of course, handicap our performance. Dr. Maxwell Maltz explains the amazing results one educator had in improving the grades of schoolchildren by changing their self-images. The educator had observed that when the children saw themselives as stupid in a particular subject (or stupid in general),they unconsciously acted to confirm their self-images. They believed they were stupid, so they acted that way. Reasoning that 
 
 
 
