@@ -290,7 +290,62 @@ Less well konwn is Watson's application of **behaviorist** principles to adverti
 **affectionate**adj. 深情的；adj. 充满爱的；  
 **strike at**：袭击；攻击；向…打击  
 
-Watson introduced these strategies in the 1920s and 1930s, the rage of newspaper and radio. Since the advent of television, these advertising startegies have grown more sophisticated and effictive, so much  so that many individuals and groups with political and social agendas have adopted them. The strategies work for a number of reasons, the chief one being people's conviction that they are impervious to manipulation. This belief is mistaken, as many researchers have demonstrated. For example Solomon Asch showed that people's reactions can be altered simply by changing the order of words in series. He asked study participants to evaluate a person by a series of adjectives. When he put positive adjectives first---"intelligent, industrious, implusive, critical, stubborn, envious"---the participants gave a positive evaluation. When he reversed the order, with "envious" coming first and "intelligent" last, they gave a negative evaluation.
+Watson introduced these strategies in the 1920s and 1930s, the age of newspapers and radio. Since the **advent** of television, these advertising startegies have grown more **sophisticated** and effictive, so much so that many individuals and groups with political and social agendas have adopted them. The strategies work for a number of reasons, the chief one being people's conviction that they are impervious to manipulation. This belief is mistaken, as many researchers have **demonstrated**. For example， Solomon Asch showed that people's reactions can be altered simply by changing the order of words in series. He asked study participants to evaluate a person by a series of **adjectives**. When he put positive adjectives first---"intelligent, **industrious**, **implusive**, critical, **stubborn**, **envious**"---the participants gave a positive evaluation. When he reversed the order, with "envious" coming first and "intelligent" last, they gave a negative evaluation.
+
+Similarly, research has shown that human memory can be manipulated. The way a question is asked can change the detail in a person's memory and even make a person remamber something that never happened!
+
+沃特森于20世纪20年代至30年代这个报纸、广播媒体的时代介绍了这些策略，自从电视出现之后，这些广告策略变得更加复杂有效，以致于许多有政治倾向的个人、群体和社会机构开始采纳这些策略。这种策略奏效的原因有很多，其中最主要的一个就是人们很确信自己不可能被操纵。正如很多研究人士所证实的那样，这种想法是错误的。比如，Solomon Asch展示了人们的反应会因为一系列词汇中词语的顺序不同而不同。他要求学习小组中的人用一系列形容词来评价一个人。当他把积极的形容词放在前面时---睿智、勤勉、冲动、批判的、固执、妒忌---参与者会给出一个积极的评价。当他把顺序颠倒时，即将妒忌放在最前面、睿智放在最后面时，他们给出了消极的评价。
+
+同样的，调查研究显示人们的记忆也可以被操纵。问问题的方式不同可以改变一个人记忆中的细节，甚至会让人想起从未发生过的事情。
+
+> **生词本：**  
+**advent**：n. 到来；出现；基督降临；基督降临节
+**sophisticated**：adj. 复杂的；精致的；久经世故的；富有经验的
+**demonstrate**：vt. 证明；展示；论证  
+**adjectives**：n. 形容词  
+ **industrious**：adj. 勤勉的
+**impulsive**：adj. 冲动的；受感情驱使的；任性的  
+**stubborn**：adj. 顽固的；顽强的；难处理的  
+**envious**：adj. 羡慕的；嫉妒的  
+
+Of course, advertisers and people with political or social agendas are not content to stimulate emotions and/or plant ideas in our minds. They also seek to reinforce those impressions by repeating them again and again. The more people hear a slogen or talking point, the more familiar it becomes. Before long, it becomes indistinguishable from ideas developed through careful thought. Sadly,"the packaging is often done so effectively that the viewer, listener, or reader does not make up with own mind at all. Instead, he inserts a packaged opinion into his mind, somewhat like inserting a DVD into a DVD player, He then pushes a button and 'plays back' the opinion whenever it seems appropriate to do so. He has performed acceptably without having had to think." Many of the beliefs we hold **dearest** and defend most vigorously may have been planted in our minds in just this way.
+
+Many years ago, Harry A. Overstreet noted that "a **climate** of opinion, like a physical climate, is so **pervasive** a thing that those who live within it and know no other take it for granted." The rise of mass culture and the sophisticated use of manupulation have made this insight more **relevant** today than ever.
+
+当然，广告商和政派人物及带有社会人物的人们并不满足于刺激情感或把一些观念种植在人们的大脑中。他们还尝试着通过多次多次重复这些观念来达到增强这些印象的效果。人们听到一个口号或者观点次数越多，就对其越熟悉。不久，这些观念就与那些你通过认真思考形成的观念难以区别开来了。不幸的是，由于观察者、听者、读者从来不用自己的思考去鉴别，这些观念写入的效果往往很有效。相反的，他把这些已经形成的观点写入自己的大脑中，就像是把DVD光盘放在DVD播放机中一样，每当遇到看似适用的情景时，就按键回放这个观点。他们不经思考的就接受这么去做了。很多我们坚定认为呢并且坚决捍卫的观念就是这样进入到我们的大脑中的。
+
+很多年前，Harry A. Overstreet提出一个观念的思潮就像自然界中的季节一样，它是如此的深入人心，以致于持有这些观点、不知道其他观点的人视之为理所当然。大众文化的崛起和操纵手段的复杂应用已经使得这种洞见在今天比过去更有意义。
+
+> **生词本：**  
+**dearest**：adj. 最亲爱的；深切的，由衷的；很贵的  
+**climate** ：n. 气候；风气；**思潮**；风土  
+**pervasive**：adj. 普遍的；**到处渗透的；**流行的  
+**relevant** ：adj. 相关的；切题的；中肯的；有重大关系的；有意义的，目的明确的  
+
+
+## The Influence Of Psychology
+
+## 心理学的影响
+
+The social and psycholigcal theories of our time also have an impact on our beliefs. Before the past few decades, people were urged to be **self-disciplined**, **self-critical**:, and **self-effacing**. They were urged to practice **self-denial**, to aspire to **self-knowledge**, to behave in a manner that ensured they **maintained**: self-respect. Self-centeredness was considered a vice. "Hard work," they were told, "leads to achievement, and that in turn produces satisfaction and self-confindence." **By and large**, our grandparents **internalized** those teachings. When they honored them in their behavior, they felt proud; when dishonored them, they felt ashamed.
+
+我们这个时代的社会学和心理学理论同样会对我们的信念产生影响。在之前的几十年中，人们被要求成为自律的、自我批判的、自谦的人。他们被要求奉行自我否定，渴望有自知之明，以一种能保持他们自尊的方式行事。认为以自我为中心是错误的。他们被教育道要努力工作，取得成就，这会使得他们产生自我满足和自信。大体上，我们的祖辈们将这些教导内化了。当他们用自己的行动来尊重这些教导时，他们倍感荣耀，当他们抹黑了这些教导时，他们觉得可耻。
+
+> **生词本：**  
+**self-disciplined**:adj. 有自我约束力的；能律己的  
+**self-critical**:adj. 律己严格的；自我批评的  
+**self-effacing**:adj. 谦让的；谦逊的；不出风头的  
+**self-denial**:n. （宗教）克己；自我否定；自我牺牲  
+**self-knowledge**:n. 自知之明   
+**maintained**:adj. 被保持的  
+**By and large**:大体上，总的来说  
+**internalized**:v. 内在化  
+
+Today the theories have been changed---indeed, almost esactly reversed. **Self-esteem**, which nineteenth-century **satirist** Ambrose Bierce defined as "an **erroneous** **appraisement**," is now considered an **imperative**. Self-centeredness has been transformed from vice into virtue, and people who devote their lives to helping others, people once considered **heroic** and **saintlike**, are now said to be **afflicted** with "a disease to please." The **formula** for success and happiness begins with feeling good about ourselves. Students who do poorly in school, workers who don't measure up to the challenges of their jobs, **substanc**e abusers, lawbreakers---all are typically **diagnosed** as **deficient** in self-esteem.
+
+
+
+
 
 
 
