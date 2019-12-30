@@ -360,9 +360,30 @@ Today the theories have been changed---indeed, almost esactly reversed. **Self-e
 **diagnosed**：v. 诊断；被诊断为（diagnose的过去分词）  
 **deficient**：adj. 不足的；有缺陷的；不充分的  
 
-In addition, just as our grandparents internalized the social and psycholigical theories of their time, so most contemporary Americans have internalized the message of self-esteem. We hear people speak if it over coffee; we hear it endlessly invoked on talk shows. Challenges to its precepts are usually met with disapproval.
+In addition, just as our grandparents internalized the social and psycholigical theories of their time, so most **contemporary** Americans have internalized the message of self-esteem. We hear people speak of it over coffee; we hear it endlessly **invoked** on talk shows. Challenges to its **precepts** are usually met with **disapproval**.
 
-But isn't the theory of self-esteem self-evident? No. A negative perception of our abilities will, of course, handicap our performance. Dr. Maxwell Maltz explains the amazing results one educator had in improving the grades of schoolchildren by changing their self-images. The educator had observed that when the children saw themselives as stupid in a particular subject (or stupid in general),they unconsciously acted to confirm their self-images. They believed they were stupid, so they acted that way. Reasoning that 
+But isn't the theory of self-esteem **self-evident**? No. A negative **perception** of our abilities will, of course, **handicap** our performance. Dr. Maxwell Maltz explains the amazing results one educator had in improving the grades of schoolchildren by changing their self-images. The educator had observed that when the children saw themselives as stupid in a particular subject (or stupid in general), they **unconsciously** acted to confirm their self-images. They believed they were stupid, so they acted that way. Reasoning that it was their defeatist attitude rather than any lack of ability that was undermining their efforts, the educator set out to change their self-images. He found that when he accomplished that, they no longer behaved stupidly! Maltz concludes from this and other examples that our experiences can work a kind of **self-hypnotism** on us, suggesting a conclusion about ourselves and then urging us to make it come true.
+
+另外，正如我们的祖辈们脑海中植入了他们那个时代的社会和细腻学观念一样，同时代的大多数美国人观念中也内化了自尊的概念。人们在喝咖啡的时候讨论自尊，在脱口秀节目中无数次提到自尊，对自尊信条的质疑往往不被认同。
+
+然而，难道自尊的概念不是不证自明的吗？当然不是。对我们能力的负面感知当然会阻碍我们的行动，Maxwell Maltz博士解释了一个教育工作者通过改变学生的自我形象而提高学生成绩的令人震惊的结果。这位教育工作者观察到当U型而生自认为自己在某一科（或者是综合成绩）上表现很愚笨的时候，他们就自然而然的用行动证明了自己确信的自我形象。他们相信自己是愚笨的，然后就行动也表现的很愚笨。这位教育工作者总结道，是他们秉持的失败主义的态度，而不是他们能力上的缺陷破坏了他们的努力。于是这位教育工作者开始着手去改变他们的自我形象。他发现当他改变了他们的自我形象时，他们就不再愚笨了。莫尔兹从这个以及其他案例中总结出人们的经验会对我们产生一种自我催眠的作用，让我们得出一个结论，然后引导我们证明这个结论。
+
+> **生词本：**  
+**contemporary** ：adj. 发生（属）于同时期的；当代的  
+**invoked**：vt. v. 叫唤（invoke的过去式，过去分词）  
+ **precepts**：n. 戒律；格言；训令（precept的复数形式）  
+**disapproval**：n. 不赞成；不喜欢  
+**self-evident**：adj. 不言而喻的；不证自明的  
+**perception**n. 认识能力；知觉，感觉；洞察力；看法；获取  
+**handicap**：n. 障碍；不利条件，不利的因素  
+**unconsciously**：adv. 不知不觉；无意识地  
+**self-hypnotism**：n. 自我催眠，自己催眠 (self-hypnosis的变形)  
+
+Many proponents of self-esteem went far beyond Maltz's demonstration that self-confidence is an important ingredient in success. They claimed that there is no such thing as too much self-esteem. Research does not support that claim. For example, Martin Seligman, an eminent research psychologist and founder of movement known as positive psychology, cites significant evidence that, rather than solving personal and social problems, including deprnssion, the modern emphasis on self-esteem causes them.
+
+Maltz's research documents that lack of confidence impedes performance, a valuable insight. But such research doesn't explain why the more global concept of self-esteem has become so dominant. The answer to that question lies in the popularization of the work of humanistic psychologists such as Abraham Maslow. Maslow described what he called the hierarchy of human needs in the form of a pyramid, with physiological needs (food and drink) at the foundation. Above them, in ascending order, are safety needs, the need for belongingness and love, the need for esteem and approval, and aesthetic and cognitive needs (knowledge, understanding,etc.) At the pinnacle is the need for self-actualization, or fulfillment of our potential. In Maslow's view, the lower needs must be fulfilled before the higher ones, It's easy to see how the idea that self-esteem must precede achievement was derived from Maslow's theory.
+
+> **生词本：**  
 
 
 
