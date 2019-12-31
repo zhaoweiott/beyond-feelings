@@ -379,11 +379,29 @@ But isn't the theory of self-esteem **self-evident**? No. A negative **perceptio
 **unconsciously**：adv. 不知不觉；无意识地  
 **self-hypnotism**：n. 自我催眠，自己催眠 (self-hypnosis的变形)  
 
-Many proponents of self-esteem went far beyond Maltz's demonstration that self-confidence is an important ingredient in success. They claimed that there is no such thing as too much self-esteem. Research does not support that claim. For example, Martin Seligman, an eminent research psychologist and founder of movement known as positive psychology, cites significant evidence that, rather than solving personal and social problems, including deprnssion, the modern emphasis on self-esteem causes them.
+Many **proponents** of self-esteem went far beyond Maltz's **demonstration** that self-confidence is an important **ingredient** in success. They claimed that there is no such thing as too much self-esteem. Research does not support that claim. For example, Martin Seligman, an **eminent** research psychologist and founder of movement known as positive psychology, cites significant evidence that, rather than solving personal and social problems, including depression, the modern emphasis on self-esteem causes them.
 
-Maltz's research documents that lack of confidence impedes performance, a valuable insight. But such research doesn't explain why the more global concept of self-esteem has become so dominant. The answer to that question lies in the popularization of the work of humanistic psychologists such as Abraham Maslow. Maslow described what he called the hierarchy of human needs in the form of a pyramid, with physiological needs (food and drink) at the foundation. Above them, in ascending order, are safety needs, the need for belongingness and love, the need for esteem and approval, and aesthetic and cognitive needs (knowledge, understanding,etc.) At the pinnacle is the need for self-actualization, or fulfillment of our potential. In Maslow's view, the lower needs must be fulfilled before the higher ones, It's easy to see how the idea that self-esteem must precede achievement was derived from Maslow's theory.
+Maltz's research documents that lack of confidence **impedes** performance, a valuable insight. But such research doesn't explain why the more global concept of self-esteem has become so dominant. The answer to that question lies in the **popularization** of the work of humanistic psychologists such as Abraham Maslow. Maslow described what he called the **hierarchy** of human needs in the form of a **pyramid**, with physiological needs (food and drink) at the foundation. Above them, in **ascending** order, are safety needs, the need for belongingness and love, the need for esteem and approval, and **aesthetic** and **cognitive** needs (knowledge, understanding,etc.) At the **pinnacle** is the need for **self-actualization**, or fulfillment of our potential. In Maslow's view, the lower needs must be fulfilled before the higher ones, It's easy to see how the idea that self-esteem must precede achievement was derived from Maslow's theory.
 
-> **生词本：**  
+很多自尊的提倡者们比莫尔兹论证的“自信是成功的重要因素”理论走的更远。他们认为没有比自信更重要的因素了。调查研究并不支持这个论断。比如， Martin Seligman一位优秀的研究心理学家、馊味积极心理学运动的发起人，列举了重要的证据表明如今对自尊的强调并没有解决个人和社会的问题，包括抑郁，而是引起了这些问题。
+
+Maltz的研究文件中指出缺乏信心会妨碍人的表现，这是一个有价值的观点。但是这个研究并不能解释为什么更加普遍的自尊概念为什么变得这么占主导地位。这个问题的答案在于像亚伯拉罕·马斯洛这样的人文主义心理学家的研究工作日益普及。马斯洛描述了他所说的以金字塔结构表示的人的需求层次，生理需要（如食物、水）在最底层；在这之上依次是安全的需要、归属的需要、自尊和认可的需要、美学和认知的需要（知识、理解等等）；在最塔尖的位置是对自我实现的需要，或者达到自己最大潜力的需要。在马斯洛的理论里，低层次的需要必须在高层次需要之前实现。很容易看出，从马斯洛的理论如何得出自尊的观念必须先于成就这一理论。
+
+> **生词本：**    
+**proponents**：n. 支持者；建议者  
+**demonstration**：n. 示范；证明；示威游行  
+**ingredient** ：n. 原料；要素；组成部分  
+**eminent**：adj. 杰出的；有名的；明显的  
+**impedes**：vt. 阻碍；妨碍；阻止  
+**popularization**：n. 通俗化，大众化；普及  
+**hierarchy**：n. 层级；等级制度  
+**pyramid**：n. 金字塔；角锥体  
+**ascending** ：adj. 上升的，增长的；升（序）的  
+**aesthetic**：adj. 美的；美学的；审美的，具有审美趣味的  
+**cognitive**：adj. 认知的，认识的  
+**pinnacle**：n. 高峰；小尖塔；尖峰；极点  
+**self-actualization**：n. 自我实现
+
 
 
 
