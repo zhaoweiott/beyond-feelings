@@ -441,16 +441,55 @@ Whether we agree completely with Frankl, one thing is clear: Contemporary Americ
 
 ## 成为一个个体
 
-In light of what we have discussed, we should regard individuality not as something we are born with but rather as something acquired---or, more precisely, earned. Individuality begins in the realization that it is impossible to escape being influenced by other people and by circumstance. The essence of individuality is vigilance. The following guidelines will help you achieve this:
+**In light of** what we have discussed, we should regard individuality not as something we are born with but rather as something acquired---or, more **precisely**, earned. Individuality begins in the realization that it is impossible to escape being influenced by other people and by circumstance. The **essence** of individuality is **vigilance**. The following guidelines will help you achieve this:
 
-- 1. Treat your first reaction to any person, issue, or situation as tentative. No matter how appealing it may be, refuse to embrace it until you have examined it.  
- -2. Decide why you react as you did. Consider whether you borrowed the reaction from someone else---a parent or friend, erhaps, or a celebrity or fictional character on television. If possible, determine what specific experiences conditioned you to react this way.  
- -3. Think of other possible reactions you might have had to the person, issue, or situation.  
+- 1. Treat your first reaction to any person, issue, or situation as **tentative**. No matter how appealing it may be, refuse to **embrace** it until you have examined it.  
+- 2. Decide why you react as you did. Consider whether you borrowed the reaction from someone else---a parent or friend, perhaps, or a celebrity or **fictional** character on television. If possible, determine what specific experiences conditioned you to react this way. 
+- 3. Think of other possible reactions you might have had to the person, issue, or situation.  
 - 4. Ask yourself whether one of the other reaction is more appropriate than your first reaction. And when you answer, resist the influence of your conditioning.  
 
+To ensure that you will really be an individual and not merely claim to be one, apply these guidelines **throughout** your work in this book, as well in your everyday life.
 
+鉴于我们前面已经讨论过的，我们不应该把个性看做是生而有之的东西，而应该把他当做后天获得的，或者更精确的说是习得的。 个性开始于认识到完全不受别人或者环境影响是不可能的。个性的本质是警惕。以下的几条建议将帮你获得个性。
 
+- 1. 把你对一个人、一个话题或者环境的第一反应的当成是尝试性的，无论它看起来有多么的合适，不经过亲自的验证，不要接受它。
+- 2. 思考你为什么会这样反应。 想想你是不是借鉴了别人（父母、朋友、名人或者电视中虚构的人物）的反应模式。如果可能，分析一下是什么特定的经验影响你作出这种选择。
+- 3. 想一想你一个人、一个话题或者一种环境的其他可能的反应方式。
+- 4. 问问你自己，是不是有其他的反应比你的第一反应更恰当。当你回答的时候，避免受到制约条件的影响。
 
+为了保证你确实想成为一个个体，而不仅仅是宣称要成为一个个体，把这些建议从头到尾地应用于你对这本书的学习中，也应用于你自己的生活里。
+
+> **生词本：**  
+**In light of** :根据；鉴于；从…观点  
+ **precisely**:adv. 精确地；恰恰  
+ **essence** :n. 本质，实质；精华；香精  
+ **vigilance**:n. 警戒，警觉；失眠症  
+**tentative**:adj. 试验性的，暂定的；踌躇的  
+**embrace** :vt. 拥抱；信奉，皈依；包含  
+ **fictional** :adj. 虚构的；小说的  
+ **throughout**:adv. 自始至终，到处；全部
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
