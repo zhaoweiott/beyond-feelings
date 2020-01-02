@@ -403,10 +403,38 @@ Maltz的研究文件中指出缺乏信心会妨碍人的表现，这是一个有
 **self-actualization**：n. 自我实现
 
 
+Other theories might have been adoped, however. A notable one is Austrian **psychiatrist** Viktor Frankl's, which was advanced at roughly the same time as Maslow's and was based on both Frankl's professional practice and his expriences in Hitler's concentration camps. Frankl argues that one human need is higher than self-actualization: **self-transcendence**, the need to rise above narrow **absorption** with self. According to Frankl, "the **primordial** **anthropological** fact is that being human is being always directed, and pointing to something or some other than oneself: to a meaning to fullfill or another human being to encounter, a cause to serve or a person to love." A person becomes a fully human "by forgetting himself and giving himself, overlooking himself and focusing outward.
 
+Making self-actualization(or happiness) the direct object of our pursuit, in Frankl's view is ultimately self-defeating; such fullfillment can occur only as "the **unintended** effect of self-transcendence." The proper perspective on life, Frankl believes, is not what it can give to us, but what it expects from us; life is daily---even hourly---questioning us, challenging us to accept "the responsibility to find the right answer to its problems and fulfill the tasks which it constantly sets for each of us.
 
+然而，其他理论也可能已经被人们所接受。比较著名的是澳大利亚精神病学家 Viktor Frankl的理论，他的理论和马斯洛的理论大致在同一时期，这个理论是以他的专业实践和他在希特勒的集中营中的经验为基础。Frankl 认为人类的需求是超过自我实现的自我超越，这种需要超出了对自己狭隘的专注。根据frankl的理论，人类学的最根本的事实是永远处于被引导的状态，指向自身或自身之外的某个东西：指向满足自己的意义、与某一个人相遇、一个奉献的理由或者一个相爱的人。 一个人之所以成为人是通过忘记自己，奉献自己，忽视自己并且关注外界。
 
+在Frankl看来，把追求自我实现（或幸福）当做直接目标，是一个人的终极失败。这种自我满足只能成为追求自我超越过程中顺道完成的东西。Frankl相信，恰当的人生看法，不是生活可以给我们什么，而是我们期望生活能给我们什么。生活就是一天天地（甚至是每小时地）询问我们，让我们接受去追寻生活中困难的答案的责任并且完成生活不断给我们的任务。
 
+> **生词本：**  
+**psychiatrist**:n. 精神病学家，精神病医生  
+**self-transcendence**:自我超越   
+**absorption**:n. 吸收；全神贯注，专心致志  
+**primordial**:adj. 原始的；根本的；原生的  
+**anthropological**:adj. 人类学的；人类学上的  
+**unintended**:adj. 无意识的；非计划中的  
+
+Finding meaning, according to Frankl's theory, involves "**perceiving** a possibility **embedded** in reality" and searching for chanllenging tasks "whose completion might add meaning to one's existence." But such perceiving and searching are **frustrated** by the focus on self: "As long as morden **literature** confines itself to, and contents itself with, self-expression- not to say self-exhibition---it reflects its authors' sense of **futility** and **absurdity**. What is more important, it also creates absurdity. This is understandable in light of the fact that meaning must be discovered, it cannot be invented . Sense cannot be created, but what way well be created is nosence."
+
+Whether we agree completely with Frankl, one thing is clear: Contemporary American culture would be markedly different if the emphasis over the past several decades had been on Frankl's theory rather than on the theories of Maslow and the other humanistic psychologists. All of us would have been affected ---we can only imagine how **profoundly**---in our attitudes, values, and beliefs.
+
+> **生词本：**  
+**perceiving** ：v. 理解  
+**embedded**：adj. 嵌入式的；植入的；内含的  
+**frustrated**：adj. 懊恼的，沮丧的；无效的，没有得到满足的；失意的，不得志的；（性欲）被抑制的  
+**literature**：n. 文学；文献；文艺；著作  
+ **futility**：n. 无用；徒劳；无价值  
+ **absurdity**:n. 荒谬；谬论；荒谬的言行  
+ **profoundly**:adv. 深刻地；深深地；极度地  
+ 
+根据frankl 的理论，寻找意义包括理解嵌入在现实中的可能，和寻找那些完成之后能够给一个人的存在增加意义的挑战项目。但是这种理解和寻找被对自身的关注所限制：只要当代文学限于并满足于自我表达（更不要说自我展示了），它将反应其作者是空虚的、荒谬的感觉。更严重的是，这会创造荒谬。根据意义是必须被发现，而不能被创造的观点，这是可以理解的。感觉是不能被创造的，而可以被完美创造的却没有什么意义。
+
+无论我们是不是完全同意Frankl的理论，有一个事情是很清楚的：如果过去的几十年里人们更接受Frankl的理论而不是Maslow或其他人本主义心理学家的理论，当代的美国文化将会大不相同。我们所有人的态度、价值观，甚至信仰都会被影响---我们只能猜测这个影响能有多深。
 
 
 
