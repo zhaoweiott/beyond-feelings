@@ -437,6 +437,40 @@ Whether we agree completely with Frankl, one thing is clear: Contemporary Americ
 无论我们是不是完全同意Frankl的理论，有一个事情是很清楚的：如果过去的几十年里人们更接受Frankl的理论而不是Maslow或其他人本主义心理学家的理论，当代的美国文化将会大不相同。我们所有人的态度、价值观，甚至信仰都会被影响---我们只能猜测这个影响能有多深。
 
 
+## Becoming an Individual
+
+## 成为一个个体
+
+In light of what we have discussed, we should regard individuality not as something we are born with but rather as something acquired---or, more precisely, earned. Individuality begins in the realization that it is impossible to escape being influenced by other people and by circumstance. The essence of individuality is vigilance. The following guidelines will help you achieve this:
+
+- 1. Treat your first reaction to any person, issue, or situation as tentative. No matter how appealing it may be, refuse to embrace it until you have examined it.
+ -2. Decide why you react as you did. Consider whether you borrowed the reaction from someone else---a parent or friend, erhaps, or a celebrity or fictional character on television. If possible, determine what specific experiences conditioned you to react this way.
+ -3. Think of other possible reactions you might have had to the person, issue, or situation.
+ 
+- 4. Ask yourself whether one of the other reaction is more appropriate than your first reaction. And when you answer, resist the influence of your conditioning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
