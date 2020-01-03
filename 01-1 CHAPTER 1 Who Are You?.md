@@ -469,6 +469,22 @@ To ensure that you will really be an individual and not merely claim to be one, 
  **fictional** :adj. 虚构的；小说的  
  **throughout**:adv. 自始至终，到处；全部
  
+ ## Applications
+ 
+ ##  应用练习
+ 
+ Note: one of the best ways to developing your thinking (and writing) skills is to record your observations, questions, and ideas in a **journal** and then, as time permits, to reflect on what you have recorded---considering the meaning and application of the observations, answering the questions, **elaborating** on the ideas (and, where **appropriate**, chanllenging them), and recording your insights. An inexpensive bound notebook or **spiral** notebook will serve the purpose. A good approach is to record your **initial** observations, questions, and ideas on the left side of the page, leaving the right side blank for your later analysis and **commentary**. The value of this reflective process is so great that you should consider keeping such a journal even if your instructor does not make it a formal part of the course.
+ 
+ 说明：培养你思考能（或写作）能力最好的方法是把你的观察、疑问和想法在日记本中记录下来，然后在时间允许的情况下，反思你记录下来的东西---思考你所观察到的东西的意义和应用，阐述你的想法（机会合适的时候，质疑这些想法），记录你的洞见。一个便宜的笔记本或者螺旋式装订活页笔记本就能满足这个需要。在本书的左侧记录下你最初的观察、疑惑和想法，然后在本书的右边栏写下你的分析和点评是一个不错的使用方法。这个记录活动的价值是非常巨大的，即使你的老师没有把这个作为作业，你也可以考虑尝试坚持记录。
+ 
+ > **生词本：**  
+ **journal** ：n. 日报，杂志；日记；分类账  
+ **elaborating**：v. 尽心地做；详细说明  
+ **appropriate**：adj. 适当的；恰当的；合适的  
+ **spiral**：adj. 螺旋形的；盘旋的  
+ **initial**：adj. 最初的；字首的  
+ **commentary**：n. 评论；注释；评注；说明  
+ 
  
  
  
